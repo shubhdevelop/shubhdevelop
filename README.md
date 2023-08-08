@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhdevelop)](https://github.com/anuraghazra/github-readme-stats)
+[![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhdevelop&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **shubhdevelop/shubhdevelop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
