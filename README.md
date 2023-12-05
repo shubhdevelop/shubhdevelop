@@ -2,7 +2,6 @@
 # I'm Shubham Raj
 ### I'm a frontend web developer, based in India, I enjoy learning new Techstack and Solving problems 
 
-- 🔭 I’m currently doing open source contributions at [RealDevSquad](realdevsquad.com)
 - 🌱 Currently learning React.js and Express.js 
 
 [![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhdevelop&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
