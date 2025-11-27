@@ -13,15 +13,15 @@ TS for money 💰| Go & C for fun | football | Code
 
 ## 🛠️ Tech Stack
 
-```JavaScript
-const skills = {
-  languages: ['JavaScript', 'TypeScript', 'Go', 'C'],
-  frontend: ['React.js', 'next'],
-  backend: ['Express.js', 'Node.js', 'encore'],
-  databases: ['MongoDB', 'Redis'],
-  tools: ['Git', 'GitHub', 'Nvim'],
-  interests: ['System Design', 'Web Development', 'Deep Tech', 'football']
-}
+```GO
+const (
+  languages = []string{ JavaScript, TypeScript, GO, C },
+  frontend = []string{ React.js, Next.js },
+  backend = []string{ Express.js, Node.js, Encore, GO },
+  databases: []string{ MongoDB, Redis },
+  tools= []string{ Git, GitHub, Nvim },
+  interests= []string{ System Design, Web Development, Deep Tech, football, CPU, Assembly, OS, Networking }
+)
 ```
 
 ### 🎯 Projects
@@ -61,7 +61,7 @@ An interactive drawing tool with unlimited canvas space.
 ### 🤝 Let's Connect!
 Feel free to reach out!
 
-- 🐦 Twitter: [@shubhamdoesjs](https://twitter.com/_Shubham2XX)
+- 🐦 Twitter: [@_Shubham2XX](https://twitter.com/shubhamdoesjs)
 - 📸 Instagram: [@nemessisx_](https://www.instagram.com/nemessisx_)
 - 💼 GitHub: You're already here!
 
