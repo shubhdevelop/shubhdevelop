@@ -6,19 +6,19 @@
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/nemessisx_)
   
 </div>
-I'm a software developer from Delhi, India, building deep tech applications and exploring the depths of web technologies. Currently building an interpreter and a in memory Database in go
+I'm a software developer from Delhi, India, building deep tech applications and exploring the depths of web technologies. Currently building an interpreter and an in-memory Database in GoLang
 
 ## 🛠️ Tech Stack
 
-```JavaScript
-const skills = {
-  languages: ['JavaScript', 'TypeScript', 'Go', 'C'],
-  frontend: ['React.js', 'next'],
-  backend: ['Express.js', 'Node.js', 'encore'],
-  databases: ['MongoDB', 'Redis'],
-  tools: ['Git', 'GitHub', 'Nvim'],
-  interests: ['System Design', 'Web Development', 'Deep Tech', 'football']
-}
+```Golang
+const (
+  languages = []string{ JavaScript, TypeScript, GO, C },
+  frontend = []string{ React.js, Next.js },
+  backend = []string{ Express.js, Node.js, Encore, GO },
+  databases: []string{ MongoDB, Redis },
+  tools= []string{ Git, GitHub, Nvim },
+  interests= []string{ System Design, Web Development, Deep Tech, football, CPU, Assembly, OS, Networking }
+)
 ```
 
 ## 🎯 Featured Projects
@@ -58,7 +58,7 @@ JavaScript-based pixel art creation tool for digital artists and hobbyists.
 
 I'm always interested in collaborating on exciting projects or discussing new ideas. Feel free to reach out!
 
-- 🐦 Twitter: [@shubhamdoesjs](https://twitter.com/shubhamdoesjs)
+- 🐦 Twitter: [@_Shubham2XX](https://twitter.com/shubhamdoesjs)
 - 📸 Instagram: [@nemessisx_](https://www.instagram.com/nemessisx_)
 - 💼 GitHub: You're already here!
 
